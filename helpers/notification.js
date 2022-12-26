@@ -2,7 +2,7 @@
 title: Notifications library
 
 description: important functions to notify users
-Author: Sumit (but ami banaitesi)
+Author: Sumit Saha (but ami banaitesi)
 Date: 25/12/2022
 */
 
