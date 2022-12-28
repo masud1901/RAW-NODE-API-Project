@@ -10,6 +10,6 @@ The things I've implemented in the project are:
 4. Twilio SMS service.
 5. If any website's state changes then the user will be notified through SMS.
 
-I am grateful to Mr.Sumit Saha for his amazing YouTube channel. Hope he continues to make these wonderful tutorials thouugh these are free. I am grateful for the skills and knowledge that I have gained through this experience.I am looking forward to celebrating this achievement and reflecting on all that I have learned. 
+I am grateful to Mr. Sumit Saha for his amazing YouTube channel. Hope he continues to make these wonderful tutorials though these are free. I am grateful for the skills and knowledge that I have gained through this experience. I am looking forward to celebrating this achievement and reflecting on all that I have learned.
 
 Thank you.
